@@ -1,10 +1,10 @@
 
-- Integrating two related models on an express app that are interconnected. 
-- Express relationships and populate on one application
+- Integrating two related models on Express that are interconnected. 
+- Express relationships and using populate on one application
 - Defining the farm & product models and interconnecting them
-- Creating New Farms
-- Creating the Farms Show Page
-- Creating Products For A Farm
+- Creating new farms
+- Creating the farms show page
+- Creating products for a farm
 - Deletion Mongoose Middleware
 
 How to run it:
